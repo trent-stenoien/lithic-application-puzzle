@@ -24,7 +24,7 @@ In my first attempts, I inspected the HTML, searching for keywords like "code" a
    1. Parse arguments, decrypts password, and uses both to generate the proof code.
    1. Last, print out the variables we just defined.
    1. The final line of main() throws a debugging error if `result` does not equal 42.
-6. The last section, `if __name__ == "__main__"`, ensures that this code won't run if imported as a module.
+6. In the last section, `if __name__ == "__main__"` ensures that this code won't run if imported as a module.
 
 ## My command and output
 
